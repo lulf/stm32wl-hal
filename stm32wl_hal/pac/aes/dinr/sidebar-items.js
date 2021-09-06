@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DINR_SPEC","data input register"],["DIN_R","Field `DIN` reader - Data Input Register"],["DIN_W","Field `DIN` writer - Data Input Register"],["R","Register `DINR` reader"],["W","Register `DINR` writer"]]});

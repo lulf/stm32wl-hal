@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ETRSEL_A","External trigger source selection"]],"struct":[["AF1_SPEC","TIM2 alternate function option register 1"],["ETRSEL_R","Field `ETRSEL` reader - External trigger source selection"],["ETRSEL_W","Field `ETRSEL` writer - External trigger source selection"],["R","Register `AF1` reader"],["W","Register `AF1` writer"]]});

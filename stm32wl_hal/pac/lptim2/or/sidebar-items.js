@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["OR__A","Option register bit 1"]],"struct":[["OR_SPEC","option register"],["OR__R","Field `OR_` reader - Option register bit 1"],["OR__W","Field `OR_` writer - Option register bit 1"],["R","Register `OR` reader"],["W","Register `OR` writer"]]});

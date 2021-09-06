@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["MAJREV_R","Field `MAJREV` reader - MAJREV"],["MINREV_R","Field `MINREV` reader - MINREV"],["R","Register `VERR` reader"],["VERR_SPEC","IPCC IP Version register"]]});

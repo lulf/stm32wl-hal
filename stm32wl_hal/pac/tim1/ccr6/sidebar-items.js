@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CCR6_R","Field `CCR6` reader - Capture/Compare 6 value"],["CCR6_SPEC","capture/compare register 6"],["CCR6_W","Field `CCR6` writer - Capture/Compare 6 value"],["R","Register `CCR6` reader"],["W","Register `CCR6` writer"]]});

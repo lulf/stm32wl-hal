@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["PRESCALER_A","Clock prescaler"]],"struct":[["PRESCALER_R","Field `PRESCALER` reader - Clock prescaler"],["PRESCALER_W","Field `PRESCALER` writer - Clock prescaler"],["PRESC_SPEC","Prescaler register"],["R","Register `PRESC` reader"],["W","Register `PRESC` writer"]]});

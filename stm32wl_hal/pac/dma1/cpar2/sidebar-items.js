@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CPAR2_SPEC","channel x peripheral address register"],["PA_R","Field `PA` reader - peripheral address"],["PA_W","Field `PA` writer - peripheral address"],["R","Register `CPAR2` reader"],["W","Register `CPAR2` writer"]]});

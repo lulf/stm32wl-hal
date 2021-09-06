@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["OSPEEDR3_A","Port x configuration bits (y = 0..15)"]],"struct":[["OSPEEDR3_R","Field `OSPEEDR3` reader - Port x configuration bits (y = 0..15)"],["OSPEEDR3_W","Field `OSPEEDR3` writer - Port x configuration bits (y = 0..15)"],["OSPEEDR_SPEC","GPIO port output speed register"],["R","Register `OSPEEDR` reader"],["W","Register `OSPEEDR` writer"]]});

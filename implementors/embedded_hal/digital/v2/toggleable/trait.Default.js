@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["stm32wl_hal"] = [{"text":"impl&lt;P:&nbsp;PinOps&gt; Default for <a class=\"struct\" href=\"stm32wl_hal/gpio/struct.Output.html\" title=\"struct stm32wl_hal::gpio::Output\">Output</a>&lt;P&gt;","synthetic":false,"types":["stm32wl_hal::gpio::Output"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

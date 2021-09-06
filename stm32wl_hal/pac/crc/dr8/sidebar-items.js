@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DR8_R","Field `DR8` reader - Data register bits"],["DR8_SPEC","Data register - byte sized"],["DR8_W","Field `DR8` writer - Data register bits"],["R","Register `DR8` reader"],["W","Register `DR8` writer"]]});

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["stm32wl_hal"] = [{"text":"impl&lt;SPI:&nbsp;SpiRegs, SCK:&nbsp;SpiSck, MISO:&nbsp;SpiMiso, MOSI:&nbsp;SpiMosi&gt; <a class=\"trait\" href=\"stm32wl_hal/spi/trait.FullDuplex.html\" title=\"trait stm32wl_hal::spi::FullDuplex\">FullDuplex</a>&lt;u8&gt; for <a class=\"struct\" href=\"stm32wl_hal/spi/struct.Spi.html\" title=\"struct stm32wl_hal::spi::Spi\">Spi</a>&lt;SPI, SCK, MISO, MOSI, <a class=\"struct\" href=\"stm32wl_hal/spi/struct.Master.html\" title=\"struct stm32wl_hal::spi::Master\">Master</a>&gt;","synthetic":false,"types":["stm32wl_hal::spi::Spi"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["C2APB3ENR_SPEC","CPU2 APB3 peripheral clock enable register [dual core device only]"],["R","Register `C2APB3ENR` reader"],["SUBGHZSPIEN_R","Field `SUBGHZSPIEN` reader - CPU2 sub-GHz radio SPI clock enable"],["SUBGHZSPIEN_W","Field `SUBGHZSPIEN` writer - CPU2 sub-GHz radio SPI clock enable"],["W","Register `C2APB3ENR` writer"]]});

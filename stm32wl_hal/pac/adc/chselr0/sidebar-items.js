@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["CHSEL_A","CHSEL"]],"struct":[["CHSELR0_SPEC","channel selection register"],["CHSEL_R","Field `CHSEL` reader - CHSEL"],["CHSEL_W","Field `CHSEL` writer - CHSEL"],["R","Register `CHSELR0` reader"],["W","Register `CHSELR0` writer"]]});

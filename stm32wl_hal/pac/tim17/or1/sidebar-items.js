@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["TI1_RMP_A","Timer 17 input 1 connection"]],"struct":[["OR1_SPEC","TIM17 option register 1"],["R","Register `OR1` reader"],["TI1_RMP_R","Field `TI1_RMP` reader - Timer 17 input 1 connection"],["TI1_RMP_W","Field `TI1_RMP` writer - Timer 17 input 1 connection"],["W","Register `OR1` writer"]]});

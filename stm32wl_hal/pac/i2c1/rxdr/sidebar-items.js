@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Register `RXDR` reader"],["RXDATA_R","Field `RXDATA` reader - 8-bit receive data"],["RXDR_SPEC","Receive data register"]]});

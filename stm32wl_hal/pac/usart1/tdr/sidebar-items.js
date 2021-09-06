@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Register `TDR` reader"],["TDR_R","Field `TDR` reader - Transmit data value"],["TDR_SPEC","transmit data register"],["TDR_W","Field `TDR` writer - Transmit data value"],["W","Register `TDR` writer"]]});

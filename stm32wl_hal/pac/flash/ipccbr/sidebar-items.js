@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IPCCBR_SPEC","Flash IPCC data buffer address register"],["IPCCDBA_R","Field `IPCCDBA` reader - IPCCDBA"],["IPCCDBA_W","Field `IPCCDBA` writer - IPCCDBA"],["R","Register `IPCCBR` reader"],["W","Register `IPCCBR` writer"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["BR3_A","Port Reset bit"]],"struct":[["BR3_R","Field `BR3` reader - Port Reset bit"],["BR3_W","Field `BR3` writer - Port Reset bit"],["BRR_SPEC","GPIO port bit reset register"],["R","Register `BRR` reader"],["W","Register `BRR` writer"]]});

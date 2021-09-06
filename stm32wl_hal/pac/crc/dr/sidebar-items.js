@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DR_R","Field `DR` reader - Data register bits"],["DR_SPEC","Data register"],["DR_W","Field `DR` writer - Data register bits"],["R","Register `DR` reader"],["W","Register `DR` writer"]]});

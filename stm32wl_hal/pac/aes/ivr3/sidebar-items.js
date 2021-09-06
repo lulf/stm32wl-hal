@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IVI_R","Field `IVI` reader - Initialization Vector Register (MSB IVR [127:96])"],["IVI_W","Field `IVI` writer - Initialization Vector Register (MSB IVR [127:96])"],["IVR3_SPEC","initialization vector register 3"],["R","Register `IVR3` reader"],["W","Register `IVR3` writer"]]});

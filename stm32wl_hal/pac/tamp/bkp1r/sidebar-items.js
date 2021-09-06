@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BKP1R_SPEC","TAMP backup register"],["BKP_R","Field `BKP` reader - BKP"],["BKP_W","Field `BKP` writer - BKP"],["R","Register `BKP1R` reader"],["W","Register `BKP1R` writer"]]});

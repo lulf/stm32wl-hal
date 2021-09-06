@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ALRABINR_SPEC","RTC alarm A binary mode register"],["R","Register `ALRABINR` reader"],["SS_R","Field `SS` reader - Synchronous counter alarm value in Binary mode"],["SS_W","Field `SS` writer - Synchronous counter alarm value in Binary mode"],["W","Register `ALRABINR` writer"]]});

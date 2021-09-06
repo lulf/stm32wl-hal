@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Register `RSSCMDR` reader"],["RSSCMDR_SPEC","RSS Command register [dual core device only]"],["RSSCMD_R","Field `RSSCMD` reader - RSS command"],["RSSCMD_W","Field `RSSCMD` writer - RSS command"],["W","Register `RSSCMDR` writer"]]});

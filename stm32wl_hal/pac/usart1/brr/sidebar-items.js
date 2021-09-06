@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BRR_R","Field `BRR` reader - BRR"],["BRR_SPEC","baud rate register"],["BRR_W","Field `BRR` writer - BRR"],["R","Register `BRR` reader"],["W","Register `BRR` writer"]]});

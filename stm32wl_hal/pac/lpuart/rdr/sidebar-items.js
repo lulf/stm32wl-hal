@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Register `RDR` reader"],["RDR_R","Field `RDR` reader - Receive data value"],["RDR_SPEC","Receive data register"]]});

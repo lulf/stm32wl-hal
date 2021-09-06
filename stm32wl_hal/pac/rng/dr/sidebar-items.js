@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DR_SPEC","data register"],["R","Register `DR` reader"],["RNDATA_R","Field `RNDATA` reader - Random data"]]});

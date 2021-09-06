@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["OT3_A","Port x configuration bits (y = 0..15)"]],"struct":[["OT3_R","Field `OT3` reader - Port x configuration bits (y = 0..15)"],["OT3_W","Field `OT3` writer - Port x configuration bits (y = 0..15)"],["OTYPER_SPEC","GPIO port output type register"],["R","Register `OTYPER` reader"],["W","Register `OTYPER` writer"]]});

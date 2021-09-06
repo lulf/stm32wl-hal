@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["clrfr","clear flag register"],["cr","control register"],["sr","status register"]],"struct":[["RegisterBlock","Register block"]],"type":[["CLRFR","CLRFR register accessor: an alias for `Reg<CLRFR_SPEC>`"],["CR","CR register accessor: an alias for `Reg<CR_SPEC>`"],["SR","SR register accessor: an alias for `Reg<SR_SPEC>`"]]});

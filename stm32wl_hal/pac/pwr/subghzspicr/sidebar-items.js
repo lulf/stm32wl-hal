@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["NSS_A","sub-GHz SPI NSS control"]],"struct":[["NSS_R","Field `NSS` reader - sub-GHz SPI NSS control"],["NSS_W","Field `NSS` writer - sub-GHz SPI NSS control"],["R","Register `SUBGHZSPICR` reader"],["SUBGHZSPICR_SPEC","Power SPI3 control register"],["W","Register `SUBGHZSPICR` writer"]]});

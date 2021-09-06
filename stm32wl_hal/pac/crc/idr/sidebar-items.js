@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IDR_R","Field `IDR` reader - General-purpose 32-bit data register bits"],["IDR_SPEC","Independent data register"],["IDR_W","Field `IDR` writer - General-purpose 32-bit data register bits"],["R","Register `IDR` reader"],["W","Register `IDR` writer"]]});

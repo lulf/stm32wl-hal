@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Register `SIDR` reader"],["SIDR_SPEC","IPCC Size ID register"],["SID_R","Field `SID` reader - SID"]]});

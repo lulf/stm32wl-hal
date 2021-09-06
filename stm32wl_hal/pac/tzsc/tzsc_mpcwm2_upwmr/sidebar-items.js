@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["LGTH_R","Field `LGTH` reader - LGTH"],["LGTH_W","Field `LGTH` writer - LGTH"],["R","Register `TZSC_MPCWM2_UPWMR` reader"],["TZSC_MPCWM2_UPWMR_SPEC","Unprivileged Water Mark 2 register"],["W","Register `TZSC_MPCWM2_UPWMR` writer"]]});

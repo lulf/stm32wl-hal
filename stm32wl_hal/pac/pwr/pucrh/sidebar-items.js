@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["PU3_A","pull-up"]],"struct":[["PU3_R","Field `PU3` reader - pull-up"],["PU3_W","Field `PU3` writer - pull-up"],["PUCRH_SPEC","Power Port H pull-up control register"],["R","Register `PUCRH` reader"],["W","Register `PUCRH` writer"]]});

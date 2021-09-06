@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["AWD2CH_R","Field `AWD2CH` reader - AWD2CH"],["AWD2CH_W","Field `AWD2CH` writer - AWD2CH"],["AWD2CR_SPEC","ADC Analog Watchdog 2 Configuration register"],["R","Register `AWD2CR` reader"],["W","Register `AWD2CR` writer"]]});

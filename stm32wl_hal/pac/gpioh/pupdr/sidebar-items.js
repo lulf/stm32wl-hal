@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["PUPDR3_A","Port x configuration bits (y = 0..15)"]],"struct":[["PUPDR3_R","Field `PUPDR3` reader - Port x configuration bits (y = 0..15)"],["PUPDR3_W","Field `PUPDR3` writer - Port x configuration bits (y = 0..15)"],["PUPDR_SPEC","GPIO port pull-up/pull-down register"],["R","Register `PUPDR` reader"],["W","Register `PUPDR` writer"]]});

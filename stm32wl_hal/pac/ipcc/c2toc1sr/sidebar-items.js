@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["C2TOC1SR_SPEC","IPCC processor 2 to processor 1 status register"],["CH1F_R","Field `CH1F` reader - CH1F"],["CH2F_R","Field `CH2F` reader - CH2F"],["CH3F_R","Field `CH3F` reader - CH3F"],["CH4F_R","Field `CH4F` reader - CH4F"],["CH5F_R","Field `CH5F` reader - CH5F"],["CH6F_R","Field `CH6F` reader - CH6F"],["R","Register `C2TOC1SR` reader"]]});

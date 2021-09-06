@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PCROP1ASR_SPEC","Flash PCROP zone A Start address register"],["PCROP1A_STRT_R","Field `PCROP1A_STRT` reader - PCROP1A area start offset"],["PCROP1A_STRT_W","Field `PCROP1A_STRT` writer - PCROP1A area start offset"],["R","Register `PCROP1ASR` reader"],["W","Register `PCROP1ASR` writer"]]});

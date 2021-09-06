@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["new_delay","Create a new [`cortex_m::delay::Delay`] from the current CPU systick frequency."],["reset_cycle_count","Reset the cycle counter to zero."]]});

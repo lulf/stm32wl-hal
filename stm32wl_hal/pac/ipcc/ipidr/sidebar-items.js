@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ID_R","Field `ID` reader - ID"],["IPIDR_SPEC","IPCC IP Identification register"],["R","Register `IPIDR` reader"]]});

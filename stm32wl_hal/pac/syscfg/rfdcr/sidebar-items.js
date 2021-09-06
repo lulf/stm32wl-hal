@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["RFTBSEL_A","radio debug test bus selection"]],"struct":[["R","Register `RFDCR` reader"],["RFDCR_SPEC","radio debug control register"],["RFTBSEL_R","Field `RFTBSEL` reader - radio debug test bus selection"],["RFTBSEL_W","Field `RFTBSEL` writer - radio debug test bus selection"],["W","Register `RFDCR` writer"]]});

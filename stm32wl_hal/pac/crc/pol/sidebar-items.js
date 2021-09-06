@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["POL_R","Field `POL` reader - Programmable polynomial"],["POL_SPEC","polynomial"],["POL_W","Field `POL` writer - Programmable polynomial"],["R","Register `POL` reader"],["W","Register `POL` writer"]]});

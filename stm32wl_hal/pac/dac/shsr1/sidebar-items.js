@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Register `SHSR1` reader"],["SHSR1_SPEC","Sample and Hold sample time register 1"],["TSAMPLE1_R","Field `TSAMPLE1` reader - DAC Channel 1 sample Time (only valid in Sample and Hold mode)"],["TSAMPLE1_W","Field `TSAMPLE1` writer - DAC Channel 1 sample Time (only valid in Sample and Hold mode)"],["W","Register `SHSR1` writer"]]});

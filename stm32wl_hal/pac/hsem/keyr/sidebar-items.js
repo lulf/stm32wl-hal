@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["KEYR_SPEC","HSEM Interrupt clear register"],["KEY_R","Field `KEY` reader - Semaphore Clear Key"],["KEY_W","Field `KEY` writer - Semaphore Clear Key"],["R","Register `KEYR` reader"],["W","Register `KEYR` writer"]]});

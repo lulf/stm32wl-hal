@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CNDTR2_SPEC","channel x number of data to transfer register"],["NDT_R","Field `NDT` reader - number of data to transfer (0 to 218 - 1)"],["NDT_W","Field `NDT` writer - number of data to transfer (0 to 218 - 1)"],["R","Register `CNDTR2` reader"],["W","Register `CNDTR2` writer"]]});

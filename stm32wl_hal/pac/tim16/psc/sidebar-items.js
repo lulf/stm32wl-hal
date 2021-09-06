@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PSC_R","Field `PSC` reader - Prescaler value"],["PSC_SPEC","TIM16/TIM17 prescaler"],["PSC_W","Field `PSC` writer - Prescaler value"],["R","Register `PSC` reader"],["W","Register `PSC` writer"]]});

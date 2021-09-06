@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SWTRIG1_AW","DAC channel1 software trigger"]],"struct":[["SWTRGR_SPEC","software trigger register"],["SWTRIG1_W","Field `SWTRIG1` writer - DAC channel1 software trigger"],["W","Register `SWTRGR` writer"]]});

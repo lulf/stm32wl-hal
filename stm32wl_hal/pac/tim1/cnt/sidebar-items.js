@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CNT_R","Field `CNT` reader - CNT"],["CNT_SPEC","counter"],["CNT_W","Field `CNT` writer - CNT"],["R","Register `CNT` reader"],["UIFCPY_R","Field `UIFCPY` reader - UIF copy"],["W","Register `CNT` writer"]]});

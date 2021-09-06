@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["stm32wl_hal"];

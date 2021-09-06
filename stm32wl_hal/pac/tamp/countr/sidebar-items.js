@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["COUNTR_SPEC","monotonic counter register"],["COUNT_R","Field `COUNT` reader - COUNT"],["R","Register `COUNTR` reader"]]});

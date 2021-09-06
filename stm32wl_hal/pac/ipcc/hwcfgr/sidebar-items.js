@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CHANNELS_R","Field `CHANNELS` reader - CHANNELS"],["HWCFGR_SPEC","IPCC Hardware configuration register"],["R","Register `HWCFGR` reader"]]});

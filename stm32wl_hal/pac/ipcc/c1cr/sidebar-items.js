@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["C1CR_SPEC","IPCC Processor 1 control register"],["R","Register `C1CR` reader"],["RXOIE_R","Field `RXOIE` reader - RXOIE"],["RXOIE_W","Field `RXOIE` writer - RXOIE"],["TXFIE_R","Field `TXFIE` reader - TXFIE"],["TXFIE_W","Field `TXFIE` writer - TXFIE"],["W","Register `C1CR` writer"]]});

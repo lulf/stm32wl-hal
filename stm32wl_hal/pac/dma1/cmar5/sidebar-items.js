@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CMAR5_SPEC","channel x memory address register"],["MA_R","Field `MA` reader - peripheral address"],["MA_W","Field `MA` writer - peripheral address"],["R","Register `CMAR5` reader"],["W","Register `CMAR5` writer"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["AWD2TR_SPEC","ADC watchdog threshold register"],["HT2_R","Field `HT2` reader - HT2"],["HT2_W","Field `HT2` writer - HT2"],["LT2_R","Field `LT2` reader - LT2"],["LT2_W","Field `LT2` writer - LT2"],["R","Register `AWD2TR` reader"],["W","Register `AWD2TR` writer"]]});

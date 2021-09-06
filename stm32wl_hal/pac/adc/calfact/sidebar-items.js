@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CALFACT_R","Field `CALFACT` reader - CALFACT"],["CALFACT_SPEC","ADC Calibration factor"],["CALFACT_W","Field `CALFACT` writer - CALFACT"],["R","Register `CALFACT` reader"],["W","Register `CALFACT` writer"]]});
